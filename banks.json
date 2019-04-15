@@ -1,0 +1,123 @@
+{
+	"afghanistan": [
+		{
+			"id": "1.",
+			"bankName": "AFGAN UNITED BANK",
+			"city": "KABUL",
+			"branchName": "",
+			"swiftCode": "AFGUAFKAXXX"
+		},
+		{
+			"id": "2.",
+			"bankName": "AFGHANISTAN INTERNATIONAL BANK",
+			"city": "KABUL",
+			"branchName": "",
+			"swiftCode": "AFIBAFKAXXX"
+		},
+		{
+			"id": "3.",
+			"bankName": "AZIZI BANK",
+			"city": "KABUL",
+			"branchName": "",
+			"swiftCode": "AZBAAFKAXXX"
+		},
+		{
+			"id": "4.",
+			"bankName": "BAKHTAR BANK",
+			"city": "KABUL",
+			"branchName": "",
+			"swiftCode": "BKRBAFKAXXX"
+		},
+		{
+			"id": "5.",
+			"bankName": "BANK ALFALAH LIMITED (AFGHANISTAN – KABUL BRANCH)",
+			"city": "HERAT",
+			"branchName": "(AFGHANISTAN – HERAT BRANCH)",
+			"swiftCode": "ALFHAFKA803"
+		},
+		{
+			"id": "6.",
+			"bankName": "BANK ALFALAH LIMITED (AFGHANISTAN – KABUL BRANCH)",
+			"city": "HERAT",
+			"branchName": "(AFGHANISTAN – KABUL BRANCH)",
+			"swiftCode": "ALFHAFKAXXX"
+		},
+		{
+			"id": "7.",
+			"bankName": "BANKE MILLIE AFGHAN",
+			"city": "KABUL",
+			"branchName": "",
+			"swiftCode": "BMAFAFKAXXX"
+		},
+		{
+			"id": "8.",
+			"bankName": "BRAC AFGHANISTAN BANK",
+			"city": "KABUL",
+			"branchName": "",
+			"swiftCode": "BABAAFKAXXX"
+		},
+		{
+			"id": "9.",
+			"bankName": "DA AFGHANISTAN BANK",
+			"city": "KABUL",
+			"branchName": "",
+			"swiftCode": "AFGBAFKAXXX"
+		},
+		{
+			"id": "10.",
+			"bankName": "FIRST MICROFINANCE BANK LTD., THE",
+			"city": "KABUL",
+			"branchName": "",
+			"swiftCode": "FMFBAFKAXXX"
+		},
+		{
+			"id": "11.",
+			"bankName": "GHAZANFAR BANK",
+			"city": "KABUL",
+			"branchName": "",
+			"swiftCode": "GHBKAFKAXXX"
+		},
+		{
+			"id": "12.",
+			"bankName": "HABIB BANK LIMITED",
+			"city": "KABUL",
+			"branchName": "",
+			"swiftCode": "HABBAFKAXXX"
+		},
+		{
+			"id": "13.",
+			"bankName": "KABUL BANK",
+			"city": "KABUL",
+			"branchName": "",
+			"swiftCode": "KABUAFKAXXX"
+		},
+		{
+			"id": "14.",
+			"bankName": "MAIWAND BANK",
+			"city": "KABUL",
+			"branchName": "",
+			"swiftCode": "MWBKAFKAXXX"
+		},
+		{
+			"id": "15.",
+			"bankName": "NATIONAL BANK OF PAKISTAN, KABUL BRANCH",
+			"city": "KABUL",
+			"branchName": "",
+			"swiftCode": "NBPAAFKAXXX"
+		},
+		{
+			"id": "16.",
+			"bankName": "PASHTANY BANK",
+			"city": "KABUL",
+			"branchName": "",
+			"swiftCode": "PIBAAFKAXXX"
+		},
+		{
+			"id": "17.",
+			"bankName": "PUNJAB NATIONAL BANK",
+			"city": "KABUL",
+			"branchName": "",
+			"swiftCode": "PUNBAFKAXXX"
+		}
+	]
+}

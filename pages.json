@@ -1,0 +1,221 @@
+[
+	{
+		"country": "algeria",
+		"pages": [
+			"/algeria/",
+			"/algeria-2/"
+		]
+	},
+	{
+		"country": "australia",
+		"pages": [
+			"/australia/",
+			"/australia-2/",
+			"/australia-3/"
+		]
+	},
+	{
+		"country": "austria",
+		"pages": [
+			"/austria/",
+			"/austria-2/",
+			"/austria-3/",
+			"/austria-4/",
+			"/austria-5/",
+			"/austria-6/",
+			"/austria-7/",
+			"/austria-8/",
+			"/austria-9/",
+			"/austria-10/"
+		]
+	},
+	{
+		"country": "bahrain",
+		"pages": [
+			"/bahrain/",
+			"/bahrain-2/"
+		]
+	},
+	{
+		"country": "bangladesh",
+		"pages": [
+			"/bangladesh/",
+			"/bangladesh-2/",
+			"/bangladesh-3/",
+			"/bangladesh-4/",
+			"/bangladesh-5/",
+			"/bangladesh-6/",
+			"/bangladesh-7/"
+		]
+	},
+	{
+		"country": "belgium",
+		"pages": [
+			"/belgium/",
+			"/belgium-2/",
+			"/belgium-3/"
+		]
+	},
+	{
+		"country": "brazil",
+		"pages": [
+			"/Brazil/",
+			"/Brazil-2/",
+			"/Brazil-3/"
+		]
+	},
+	{
+		"country": "canada",
+		"pages": [
+			"/canada/",
+			"/canada-2/"
+		]
+	},
+	{
+		"country": "denmark",
+		"pages": [
+			"/denmark/",
+			"/denmark-2/",
+			"/denmark-3/"
+		]
+	},
+	{
+		"country": "ecuador",
+		"pages": [
+			"/ecuador/",
+			"/ecuador-2/"
+		]
+	},
+	{
+		"country": "greece",
+		"pages": [
+			"/greece/",
+			"/greece-2/"
+		]
+	},
+	{
+		"country": "hong-kong",
+		"pages": [
+			"/hong-kong/",
+			"/hong-kong-2/",
+			"/hong-kong-3/",
+			"/hong-kong-4/"
+		]
+	},
+	{
+		"country": "indonesia",
+		"pages": [
+			"/indonesia/",
+			"/indonesia-2/",
+			"/indonesia-3/",
+			"/indonesia-4/",
+			"/indonesia-5/"
+		]
+	},
+	{
+		"country": "iran",
+		"pages": [
+			"/iran/",
+			"/iran-2/",
+			"/iran-3/",
+			"/iran-4/",
+			"/iran-5/",
+			"/iran-6/",
+			"/iran-7/"
+		]
+	},
+	{
+		"country": "ireland",
+		"pages": [
+			"/ireland/",
+			"/ireland-2/",
+			"/ireland-3/",
+			"/ireland-4/"
+		]
+	},
+	{
+		"country": "italy",
+		"pages": [
+			"/italy/",
+			"/italy-2/",
+			"/italy-3/",
+			"/italy-4/",
+			"/italy-5/",
+			"/italy-6/",
+			"/italy-7/",
+			"/italy-8/"
+		]
+	},
+	{
+		"country": "japan",
+		"pages": [
+			"/japan/",
+			"/japan-2/",
+			"/japan-3/",
+			"/japan-4/"
+		]
+	},
+	{
+		"country": "libya",
+		"pages": [
+			"/libya/",
+			"/libyan-2/"
+		]
+	},
+	{
+		"country": "netherlands",
+		"pages": [
+			"/netherlands/",
+			"/netherlands-2/"
+		]
+	},
+	{
+		"country": "nilarge",
+		"pages": [
+			"/nilarge/",
+			"/nilarge-2/"
+		]
+	},
+	{
+		"country": "norway",
+		"pages": [
+			"/norway/",
+			"/norway-2/"
+		]
+	},
+	{
+		"country": "spain",
+		"pages": [
+			"/spain/",
+			"/spain2/",
+			"/spain3/"
+		]
+	},
+	{
+		"country": "united-states",
+		"pages": [
+			"/united-states/",
+			"/united-states-2/",
+			"/united-states-3/",
+			"/united-states-4/",
+			"/united-states-5/",
+			"/united-states-6/",
+			"/united-states-7/",
+			"/united-states-8/",
+			"/united-states-9/",
+			"/united-states-10/",
+			"/united-states-11/",
+			"/united-states-12/",
+			"/united-states-13/",
+			"/united-states-14/",
+			"/united-states-15-2/",
+			"/united-states-16/",
+			"/united-states-17/",
+			"/united-states-18/",
+			"/united-states-19/",
+			"/united-states-20/",
+			"/united-states-21/",
+			"/united-states-22/"
+		]
+	},
+]
